@@ -1,5 +1,6 @@
 # Amigo Secreto
-Site simples feito com HTML, CSS e JavaScript para sortear amigos a partir de uma lista.
+Site simples feito com HTML, CSS e JavaScript para sortear amigos a partir de uma lista.  
+🔗 *Acesse aqui o site:* [https://raysilvap.github.io/challenge-amigo-secreto_pt/](https://raysilvap.github.io/challenge-amigo-secreto_pt/) 
 
 ## Como utilizar?
 1. Clone o projeto localmente.
